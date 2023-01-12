@@ -1,0 +1,18 @@
+Compulsory Task 22 - Interpretation
+
+1.) Using the kmeans algorithm and the use of 3 clusters from the data1953.csv file, the records have indicated a lower life expectancy 
+higher birth rate in the 3rd world countries. The 1st world countries are more likely to have better access to education, better health care
+for those countries to be able to have a high life expectancy and a lower birth rate. Another observation I noticed is that
+the data from 1953 to 2008 have shown that life expectancy and birth rate for almost all the countries had significantly increased.
+
+2.) Both text files have indicated that there has been a higher life expectancy.The clusters have shown that they have moved up in the 
+graph and this is most likely to the contribution of better healthcare. The countries in 2008 have indicated a higher life expectancy and 
+birth rate than the data from 1953. There will always be an advancement of medicine, not all countries will have access to the best 
+health care, but the date had shown that the statistics did not decline. There are more countries from 1953 now in 2008 as medicine becomes 
+accessibile (though costly), especially in the 3rd world countries. The same cannot be said for any 1953 country clusters that might be formed in
+2008 because most of them are relatively loose and mostly focused on a high birth rate rather than a high life expectancy. A country such 
+as South Africa has initaed for a higher life expectancy.
+
+
+
+
